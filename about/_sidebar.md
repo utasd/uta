@@ -1,2 +1,4 @@
 -   [团队成员](about/team.md)
 -   [更新信息](about/version.md)
+-   [开发必读](about/requiredread.md)
+-   [模版](about/template.md)

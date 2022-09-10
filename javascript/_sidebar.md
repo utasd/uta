@@ -1,1 +1,4 @@
-
+-   [cheerio](javascript/cheerio.md)
+-   [delay](javascript/delay.md)
+-   [loadtest](javascript/loadtest.md)
+-   [prompts](javascript/prompts.md)
